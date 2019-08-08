@@ -3,9 +3,13 @@
 ## Introduction to Python, Scapy and MAC Security
 
 __Please work in teams of 3 students__
+
 Group2
+
 Jiyong Kang
+
 Taekbom Lee
+
 Basile Botebol
 
 __Korean/Swiss hybrid teams are highly encouraged__
