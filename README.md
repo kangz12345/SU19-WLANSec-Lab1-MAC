@@ -159,7 +159,7 @@ So, every time your scanner prints results, they will look like this:
 
 __Q1__ : What type of frames are used to detect clients in a passive way?
 
-Management frames?
+type: Management frame, subtype: probe request.
 
 __Q2__ : why is it no longer possible to detect iPhones since version 8 of iOS?
 
@@ -167,7 +167,7 @@ Since version 8 of iOS, it uses randomized MAC address for probe requests.
 
 __Q3__ : what is the purpose of those frames?
 
-Managing network connections?
+Checking around for known networks.
 
 __Q4__ : why are these frames not secured?
 
@@ -175,7 +175,7 @@ These frames should be interpreted by every APs, regardless of networks.
 
 __Q5__ : what other information can you obtain besides the MAC address?
 
-.
+Other recent network (SSID) used by the client.
 
 
 ## Deliverables
